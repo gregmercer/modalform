@@ -1,5 +1,8 @@
 <?php
 
+// Discussed in the following blog post:
+// http://deeson-online.co.uk/labs/insert-form-pop-modal-ctools-and-drupal-7
+
 /**
  * Implements hook_menu().
  */
